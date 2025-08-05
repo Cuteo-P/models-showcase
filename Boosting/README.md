@@ -58,4 +58,4 @@ You should get the following evaluation metrics:
 
 ##  Contact
 
-- **Telegram**: [https://t.me/frozenfoxby](#)
+- **Telegram**: [https://t.me/frozenfoxby]
