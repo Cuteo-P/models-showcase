@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. **Create the environment from the `environment.yml` file**:  
    Run the following command in your terminal:
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 Usage
+##  Usage
 
 ### 1. Ensure you are in the project's root directory
 
@@ -56,6 +56,6 @@ You should get the following evaluation metrics:
 
 ---
 
-## 💬 Contact
+##  Contact
 
-- **Telegram**: [frozenfoxby](#)
+- **Telegram**: [https://t.me/frozenfoxby](#)
