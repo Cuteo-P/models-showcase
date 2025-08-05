@@ -32,7 +32,7 @@ Make sure to run the following commands from the root directory of the project t
 #### To **train the model**:
 Run the command below:
 ```bash
-python -m scripts.train_model.py
+python -m scripts.train_model
 ```
 This will generate two files: 
 - `model.pkl` (the trained model)
@@ -41,7 +41,7 @@ This will generate two files:
 #### To **evaluate the model**:
 Run the following command:
 ```bash
-python -m scripts.evaluate_model.py
+python -m scripts.evaluate_model
 ```
 You should get the following evaluation metrics:
 - **MSE (Mean Squared Error)**
